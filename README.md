@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael Skovron</h1>
+<h1 align="center">Hi 👋, I'm Raf</h1>
 <h3 align="center">Nerds wanna buy from nerds</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafskov&label=Profile%20views&color=0e75b6&style=flat" alt="rafskov" /> </p>
