@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [rewriting a simple Twilio app to use LLMs](https://github.com/rafskov/trashappDEMO)
 
-- 🌱 I’m currently learning **HTMX, Huggingface, W&B, LLMops**
+- 🌱 I’m currently learning **AppScript, Make.com, vibe coding**
 
-- 👯 I’m looking to collaborate on **lead gen for searchers looking to connect with small business owners looking to sell**
+- 👯 I’m looking to collaborate on **lead gen for founders & searchers looking to connect with small business owners looking to sell**
 
 - 💬 Ask me about **how to sell a technical product and drive consumption**
 
