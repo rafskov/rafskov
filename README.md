@@ -9,7 +9,7 @@
 - [] Answering client questions 
 
 
-- 🌱 I’m currently learning **AppScript, Make.com, vibe coding**
+- 🌱 I’m currently using **AppScript, Copoliot agent mode in VS Code**
 
 - 👯 I’m looking to collaborate on **lead gen for founders & searchers looking to connect with small business owners looking to sell**
 
