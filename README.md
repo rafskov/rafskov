@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafskov&label=Profile%20views&color=0e75b6&style=flat" alt="rafskov" /> </p>
 
-- 🔭 I’m currently working on [rewriting a simple Twilio app to use LLMs](https://github.com/rafskov/trashappDEMO)
+- 🔭 I’m currently working on automating whatever I can with make.com, Python, Copilot agent in IDE, and mcp. Examples:
+- [] Finding net new prospects
+- [] Account reporting
+- [] Answering client questions 
+
 
 - 🌱 I’m currently learning **AppScript, Make.com, vibe coding**
 
