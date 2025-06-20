@@ -3,10 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafskov&label=Profile%20views&color=0e75b6&style=flat" alt="rafskov" /> </p>
 
-- 🔭 I’m currently working on automating whatever I can with make.com, Python, Copilot agent in IDE, and mcp. Examples:
+- 🔭 I’m currently working on automating whatever I can with Python, Copilot agent in IDE, and mcp. Examples:
 - [] Finding net new prospects
-- [] Account reporting
-- [] Answering client questions 
+- [] Account management reporting
+- [] Answering client questions
+- [] Post call feedback 
 
 
 - 🌱 I’m currently using **AppScript, Copoliot agent mode in VS Code**
