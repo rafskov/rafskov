@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafskov&label=Profile%20views&color=0e75b6&style=flat" alt="rafskov" /> </p>
 
-- 🔭 I’m currently working on automating whatever I can with Python, Copilot agent in IDE, and mcp. Examples:
-- [] Finding net new prospects
-- [] Account management reporting
-- [] Answering client questions
-- [] Post call feedback 
+- 🔭 I’m currently working on automating whatever I can with Python, Apify, Make.com, Copilot coding agent, various LLMs.
+
+- I maintain a site [here](rafskovroncpa.netlify.app)
+- I trade options and [built a tool](callscore.app) to help me vet trades. I do mostly credit spreads. I'm up 8k this year!
+- My resume is basically my [LinkedIn](linkedin.com/in/rafskovron)
 
 
-- 🌱 I’m currently using **AppScript, Copoliot agent mode in VS Code**
+- 🌱 I’m currently using **GitHub tools like Coding Agent, VS Code and playing with agentic browsers like Hyperdrive, BrowserUse and more
 
 - 👯 I’m looking to collaborate on **lead gen for founders & searchers looking to connect with small business owners looking to sell**
 
