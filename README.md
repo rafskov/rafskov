@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on automating whatever I can with Python, Apify, Make.com, Copilot coding agent, various LLMs.
 
-- I maintain a site [here](rafskovroncpa.netlify.app)
-- I trade options and [built a tool](callscore.app) to help me vet trades. I do mostly credit spreads. I'm up 8k this year!
-- My resume is basically my [LinkedIn](linkedin.com/in/rafskovron)
+- I maintain a site [here](http://rafskovroncpa.netlify.app)
+- I trade options and [built a tool](http://callscore.app) to help me vet trades. I do mostly credit spreads. I'm up 8k this year!
+- My resume is basically my [LinkedIn](https://linkedin.com/in/rafskovron)
 
 
 - 🌱 I’m currently using **GitHub tools like Coding Agent, VS Code and playing with agentic browsers like Hyperdrive, BrowserUse and more
