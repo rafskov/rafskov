@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafskov&label=Profile%20views&color=0e75b6&style=flat" alt="rafskov" /> </p>
 
-- 🔭 I’m currently working on automating whatever I can with Python, Apify, Make.com, Copilot coding agent, various LLMs.
-
+- 🔭 I’m currently working on automating whatever I can with GitHub Actions and Cline Kanban
 - I maintain a site [here](http://rafaelskovroncpa.netlify.app)
-- I trade options and [built a tool](http://callscore.app) to help me vet trades. I do mostly credit spreads. I'm up 8k this year!
+- I trade options and [built a tool](https://ironcondorbuddy-production.up.railway.app/) to help me vet trades. I do mostly credit spreads. I'm up 8k this year!
 - My resume is basically my [LinkedIn](https://linkedin.com/in/rafskovron)
 
 
-- 🌱 I’m currently using **GitHub tools like Coding Agent, VS Code and playing with agentic browsers like Hyperdrive, BrowserUse and more
+- 🌱 I’m currently using **Cline tools like Kanban and VS Code and playing with agentic browsers like Perplexity Comet"
 
 - 👯 I’m looking to collaborate on **lead gen for founders & searchers looking to connect with small business owners looking to sell**
 
