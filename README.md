@@ -1,29 +1,37 @@
 <h1 align="center">Hi 👋, I'm Raf</h1>
-<h3 align="center">Nerds wanna buy from nerds</h3>
+<h3 align="center">Outsourced AE for dev tools, technical SaaS, and SMB services</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafskov&label=Profile%20views&color=0e75b6&style=flat" alt="rafskov" /> </p>
+### What I do
 
-- 🔭 I’m currently working on automating whatever I can with GitHub Actions and Cline Kanban
-- I maintain a site [here](http://rafaelskovroncpa.netlify.app)
-- I trade options and [built a tool](https://ironcondorbuddy-production.up.railway.app/) to help me vet trades. I do mostly credit spreads. I'm up 8k this year!
-- My resume is basically my [LinkedIn](https://linkedin.com/in/rafskovron)
+I help technical founders and SMB owners sell developer-facing products without immediately hiring a full-time AE.
 
+I work best with dev tools, infrastructure products, workflow automation, technical SaaS, and services where the buyer cares about how the product actually works.
 
-- 🌱 I’m currently using **Cline tools like Kanban and VS Code and playing with agentic browsers like Perplexity Comet"
+Typical work:
 
-- 👯 I’m looking to collaborate on **lead gen for founders & searchers looking to connect with small business owners looking to sell**
+- **Outsourced AE work**: prospecting, qualification, follow-up, demos, and pipeline ownership.
+- **Developer-focused sales**: translating technical value into clear buyer conversations without watering it down.
+- **Pipeline build-out**: sourcing, segmentation, outbound sequences, and repeatable sales motion.
+- **CRM and sales ops**: practical HubSpot, Apollo, LinkedIn Sales Navigator, Clay, and Google Sheets workflows.
+- **Founder support**: helping technical founders turn product knowledge and customer instincts into a sales process.
 
-- 💬 Ask me about **how to sell a technical product and drive consumption**
+### How I work
 
-- 📫 How to reach me **rskovron@gmail.com**
+- **Technical enough to be useful**: I can understand APIs, GitHub workflows, CI/CD, AI tools, automation, and developer pain points.
+- **Sales-focused enough to close gaps**: I care about pipeline, follow-up, qualification, and next steps.
+- **Operator-first**: I would rather ship one working outbound motion this week than spend a month polishing a GTM deck.
+- **Tool-agnostic**: I use what you already have before recommending anything new.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Currently
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- Helping founder-led companies and SMBs build pipeline, outreach, CRM, and follow-up systems
+- Selling and supporting developer-facing products, technical services, and automation-heavy workflows
+- Experimenting with agentic browsers, GitHub Actions, AI coding tools, and lightweight automation to compress sales ops work
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafskov&show_icons=true&locale=en&layout=compact" alt="rafskov" /></p>
+### Get in touch
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafskov&show_icons=true&locale=en" alt="rafskov" /></p>
+- **Email**: rskovron@gmail.com
+- **LinkedIn**: [linkedin.com/in/rafskovron](https://linkedin.com/in/rafskovron)
+- **Book**: [Book](https://app.apollo.io/#/meet/rafael_skovron_b3b)
+
+Best fit if you're building something technical and need someone who can sell to developers, founders, operators, or SMB buyers without sounding like a generic sales agency.
